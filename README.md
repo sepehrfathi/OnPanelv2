@@ -4,7 +4,7 @@ Welcome to the official GitHub repository of OnPanel! OnPanel is a powerful data
 
 # Demo
 you can use [web app](https://py.onwebs.ir)
-you can see demo [OnPanel ](http://https://onwebsdash.iran.liara.run/) 
+you can see demo [OnPanel ](https://onwebsdash.iran.liara.run/) 
 
 
 ## Feathers 
