@@ -38,7 +38,7 @@ https://onwebs.ir/main/onpanel
 
 <div align="center">
 
-[![][logo-url]][repo-url]  
+[![][logo-url]]  
 
 
 [![][banner-url]][repo-url]  
