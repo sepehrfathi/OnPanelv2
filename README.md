@@ -44,7 +44,7 @@ https://onwebs.ir/main/onpanel
 
 
 
-[![][banner-url]]  
+[![][banner-url]  
 
 
 [banner-url]: https://onwebs.ir/main/wp-content/uploads/2023/08/40cc958c-tmplw-wpdev-saas-template-1-mac.png
